@@ -1,1 +1,4 @@
 # Doki
+#ne
+``ne
+bılmem
